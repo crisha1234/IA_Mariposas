@@ -1,2 +1,2 @@
 # Diferencias Ia Pyton y Pytorch
-Trabajo universitario
+Las diferencias son:
