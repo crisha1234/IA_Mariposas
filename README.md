@@ -1,2 +1,2 @@
-# IA_Mariposas
+# Diferencias Ia Pyton y Pytorch
 Trabajo universitario
